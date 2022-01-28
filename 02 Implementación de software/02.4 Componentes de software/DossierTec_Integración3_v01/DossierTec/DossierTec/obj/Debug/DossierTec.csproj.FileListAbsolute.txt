@@ -1,0 +1,87 @@
+C:\Users\Darre\source\repos\DossierTec\DossierTec\obj\Debug\DossierTec.csprojAssemblyReference.cache
+C:\Users\Darre\source\repos\DossierTec\DossierTec\obj\Debug\DossierTec.Properties.Resources.resources
+C:\Users\Darre\source\repos\DossierTec\DossierTec\obj\Debug\DossierTec.csproj.GenerateResource.cache
+C:\Users\Darre\source\repos\DossierTec\DossierTec\obj\Debug\DossierTec.csproj.CoreCompileInputs.cache
+C:\Users\Darre\source\repos\DossierTec\DossierTec\bin\Debug\DossierTec.exe.config
+C:\Users\Darre\source\repos\DossierTec\DossierTec\bin\Debug\DossierTec.exe
+C:\Users\Darre\source\repos\DossierTec\DossierTec\bin\Debug\DossierTec.pdb
+C:\Users\Darre\source\repos\DossierTec\DossierTec\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Darre\source\repos\DossierTec\DossierTec\bin\Debug\SpreadsheetLight.dll
+C:\Users\Darre\source\repos\DossierTec\DossierTec\bin\Debug\System.Drawing.Common.dll
+C:\Users\Darre\source\repos\DossierTec\DossierTec\bin\Debug\System.IO.Packaging.dll
+C:\Users\Darre\source\repos\DossierTec\DossierTec\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Darre\source\repos\DossierTec\DossierTec\bin\Debug\SpreadsheetLight.xml
+C:\Users\Darre\source\repos\DossierTec\DossierTec\bin\Debug\System.IO.Packaging.xml
+C:\Users\Darre\source\repos\DossierTec\DossierTec\obj\Debug\DossierTec.csproj.CopyComplete
+C:\Users\Darre\source\repos\DossierTec\DossierTec\obj\Debug\DossierTec.exe
+C:\Users\Darre\source\repos\DossierTec\DossierTec\obj\Debug\DossierTec.pdb
+C:\Users\Darre\source\repos\DossierTec\DossierTec\obj\Debug\DossierTec.FrmMenu.resources
+C:\Users\Darre\source\repos\DossierTec\DossierTec\obj\Debug\LectorInstrumentacionAvance.FrmSeleccionarInstrumentacion.resources
+C:\Users\Darre\source\repos\DossierTec\DossierTec\obj\Debug\LectorProyectosDescarga.FrmSeleccionarProyectos.resources
+C:\Users\Darre\source\repos\DossierTec\DossierTec\obj\Debug\GeneradorInstrumentacionAvance.FrmSeleccionarUbicacion.resources
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\bin\Debug\DossierTec.exe.config
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\bin\Debug\DossierTec.exe
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\bin\Debug\DossierTec.pdb
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\bin\Debug\SpreadsheetLight.dll
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\bin\Debug\System.Drawing.Common.dll
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\bin\Debug\System.IO.Packaging.dll
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\bin\Debug\SpreadsheetLight.xml
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\bin\Debug\System.IO.Packaging.xml
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\obj\Debug\DossierTec.csproj.AssemblyReference.cache
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\obj\Debug\DossierTec.FrmMenu.resources
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\obj\Debug\GeneradorInstrumentacionAvance.FrmSeleccionarUbicacion.resources
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\obj\Debug\LectorInstrumentacionAvance.FrmSeleccionarInstrumentacion.resources
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\obj\Debug\LectorProyectosDescarga.FrmSeleccionarProyectos.resources
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\obj\Debug\DossierTec.Properties.Resources.resources
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\obj\Debug\DossierTec.csproj.GenerateResource.cache
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\obj\Debug\DossierTec.csproj.CoreCompileInputs.cache
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\obj\Debug\DossierTec.csproj.CopyComplete
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\obj\Debug\DossierTec.exe
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\obj\Debug\DossierTec.pdb
+C:\Users\laura\Documents\DossierTec_Integración2_v01\DossierTec\DossierTec\bin\Debug\Guna.UI.dll
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\DossierTec.exe.config
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\DossierTec.exe
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\DossierTec.pdb
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\SpreadsheetLight.dll
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\System.Drawing.Common.dll
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\System.IO.Packaging.dll
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\SpreadsheetLight.xml
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\System.IO.Packaging.xml
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.csprojAssemblyReference.cache
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.FrmMenu.resources
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\GeneradorInstrumentacionAvance.FrmSeleccionarUbicacion.resources
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\LectorInstrumentacionAvance.FrmSeleccionarInstrumentacion.resources
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\LectorProyectosDescarga.FrmSeleccionarProyectos.resources
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.Properties.Resources.resources
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.csproj.GenerateResource.cache
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.csproj.CoreCompileInputs.cache
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.csproj.CopyComplete
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.exe
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.pdb
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\DossierTec.exe.config
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\DossierTec.exe
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\DossierTec.pdb
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\SpreadsheetLight.dll
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\System.Drawing.Common.dll
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\System.IO.Packaging.dll
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\SpreadsheetLight.xml
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\bin\Debug\System.IO.Packaging.xml
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.csproj.AssemblyReference.cache
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.FrmMenu.resources
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\GeneradorInstrumentacionAvance.FrmSeleccionarUbicacion.resources
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\LectorInstrumentacionAvance.FrmSeleccionarInstrumentacion.resources
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\LectorProyectosDescarga.FrmSeleccionarProyectos.resources
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.Properties.Resources.resources
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.csproj.GenerateResource.cache
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.csproj.CoreCompileInputs.cache
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.csproj.CopyComplete
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.exe
+C:\Users\darka\Desktop\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\DossierTec.pdb
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\GeneradorProyectosDesgarga.FrmSeleccionarUbicacion_PD.resources
+D:\Repositorios\BitBucket\dossiertec\02 Implementación de software\02.4 Componentes de software\DossierTec\DossierTec\obj\Debug\GuardarCSV.FrmGenerarArchivoCsv.resources

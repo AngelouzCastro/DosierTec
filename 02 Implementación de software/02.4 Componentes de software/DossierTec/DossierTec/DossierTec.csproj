@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D4F11B17-A1E1-45C8-B5A8-E64A40442A08}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DossierTec</RootNamespace>
+    <AssemblyName>DossierTec</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.1</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>DEDBEC28B8756AD3F933B7D3DCD66B3BF0D7C2DC</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>DossierTec_1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>envelope.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.11.3.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.11.3\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\Downloads\Guna.UI\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="SpreadsheetLight, Version=3.5.0.0, Culture=neutral, PublicKeyToken=32fbb46dc1730c57, processorArchitecture=MSIL">
+      <HintPath>..\packages\SpreadsheetLight.3.5.0\lib\netstandard2.0\SpreadsheetLight.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Common, Version=4.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.5.0.0\lib\net461\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.3.0\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Packaging, Version=4.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Packaging.4.7.0\lib\net46\System.IO.Packaging.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenu.Designer.cs">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneradorInstrumentacionAvance\Directorio.cs" />
+    <Compile Include="GeneradorInstrumentacionAvance\FrmSeleccionarUbicacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneradorInstrumentacionAvance\FrmSeleccionarUbicacion.designer.cs">
+      <DependentUpon>FrmSeleccionarUbicacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneradorProyectosDescarga\Directorio_PD.cs" />
+    <Compile Include="GeneradorProyectosDescarga\FrmSeleccionarUbicacion_PD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneradorProyectosDescarga\FrmSeleccionarUbicacion_PD.designer.cs">
+      <DependentUpon>FrmSeleccionarUbicacion_PD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LectorInstrumentacionAvance\Archivo.cs" />
+    <Compile Include="LectorInstrumentacionAvance\FrmSeleccionarInstrumentacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LectorInstrumentacionAvance\FrmSeleccionarInstrumentacion.designer.cs">
+      <DependentUpon>FrmSeleccionarInstrumentacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LectorProyectosDescarga\Archivo.cs" />
+    <Compile Include="LectorProyectosDescarga\FrmSeleccionarProyectos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LectorProyectosDescarga\FrmSeleccionarProyectos.designer.cs">
+      <DependentUpon>FrmSeleccionarProyectos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LectorProyectosDescarga\GuardarCSV\ArchivoCsv.cs" />
+    <Compile Include="LectorProyectosDescarga\GuardarCSV\FrmExportarCSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LectorProyectosDescarga\GuardarCSV\FrmExportarCSV.designer.cs">
+      <DependentUpon>FrmExportarCSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListasInformacion\Instrumentacion.cs" />
+    <Compile Include="ListasInformacion\Listas.cs" />
+    <Compile Include="ListasInformacion\Proyecto.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmMenu.resx">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneradorInstrumentacionAvance\FrmSeleccionarUbicacion.resx">
+      <DependentUpon>FrmSeleccionarUbicacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneradorProyectosDescarga\FrmSeleccionarUbicacion_PD.resx">
+      <DependentUpon>FrmSeleccionarUbicacion_PD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LectorInstrumentacionAvance\FrmSeleccionarInstrumentacion.resx">
+      <DependentUpon>FrmSeleccionarInstrumentacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LectorProyectosDescarga\FrmSeleccionarProyectos.resx">
+      <DependentUpon>FrmSeleccionarProyectos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LectorProyectosDescarga\GuardarCSV\FrmExportarCSV.resx">
+      <DependentUpon>FrmExportarCSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="DossierTec_1_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\csv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\archivo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carpeta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hierarchy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton-x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_checked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="envelope.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
